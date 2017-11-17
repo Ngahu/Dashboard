@@ -52,3 +52,13 @@ body{
 }
 
 /* end of breadcrumb */
+
+
+/* Proogress Bar */
+.progress-bar{
+    background: #333333;
+    color: #ffffff;
+}
+
+
+/* end of Proogress Bar */
